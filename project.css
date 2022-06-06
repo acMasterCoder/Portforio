@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  background-color: deepskyblue
+}
+
+.battleship{
+  font-size: 100px
+}
+
+a{
+  font-size: 50px
+}
+h3{
+  max-width: 700px
+}
